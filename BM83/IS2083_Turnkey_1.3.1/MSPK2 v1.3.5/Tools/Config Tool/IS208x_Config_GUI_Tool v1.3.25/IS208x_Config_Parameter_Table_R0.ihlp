@@ -508,7 +508,7 @@ Tone type for button lock state.
 ;;help_end;;
 BUTTON_LOCK_TONE
 Setting Function Alarm Tone
-tone mode for some function indication, such NFC…
+tone mode for some function indication, such NFC… 
 ;;help_end;;
 TONE_CFG_KEY_FUNCTION_ALARM_TONE
 Quality Warning Tone
